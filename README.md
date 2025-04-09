@@ -22,9 +22,6 @@ From my first Amstrad 8256 to today's cutting-edge mobile ecosystems, I've trans
 - Contributor to open-source projects on GitHub and Launchpad
 - Multilingual professional fluent in English, Catalan, and Spanish
 
-# 🎓 Education:
-- Degree from Galway-Mayo Institute of Technology in Computer Science and Software Development
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codeskraps&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeskraps&theme=dark&hide_border=false)<br/>
@@ -35,8 +32,3 @@ From my first Amstrad 8256 to today's cutting-edge mobile ecosystems, I've trans
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codeskraps&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🔗 Connect With Me:
-- [Personal Repo](https://repo.codeskraps.com/codeskraps)
-- [Play Store](https://play.google.com/store/apps/developer?id=Codeskraps)
-- [Trifork Smart Enterprise](https://trifork.com/)
